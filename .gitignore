@@ -1,2 +1,8 @@
 rethinking-Experimental/
 lectures.mpcpl
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+notes/.ipynb_checkpoints/
