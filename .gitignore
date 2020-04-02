@@ -2,3 +2,6 @@ rethinking-Experimental/
 lectures.mpcpl
 .Rproj.user
 .Rhistory
+.RData
+.Ruserdata
+.Renviron
